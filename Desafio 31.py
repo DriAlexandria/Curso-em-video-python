@@ -11,7 +11,5 @@ else: #viagem longa
 #RESOLUCAO SIMPLIFICADA
 
 km = float(input('Qual é a distancia da sua viagem?: '))
-preco = km * 0.50 
-if km <= 200
-else km * 0.45
+preco = km * 0.50 if km <= 200 else km * 0.45
 print('O preco da sua passagem será de R${:.2f}'.format(preco))
