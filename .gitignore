@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos compilados
+*.so
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv/
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos de distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos de teste
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos de ambiente
+.env
