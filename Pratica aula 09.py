@@ -1,12 +1,13 @@
 frase = 'Curso em Vídeo Python'
 print(frase.upper().count('O'))
-#3
+#Resultado = 3
 #count para contar o que vc quiser em específico
+#Upper para que o resultado considere tudo maiúsculo (independente do que for digitado)
 
 print(len(frase))
 ##len para contar as letras da frase
 print(len(frase.strip()))
-#strip para contar as letras sem contar ops espacos antes e depois
+#strip para contar as letras sem contar os espacos antes e depois
 
 print(frase.replace('Python', 'Android'))
 #ou...

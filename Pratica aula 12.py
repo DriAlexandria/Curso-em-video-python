@@ -9,3 +9,8 @@ elif nome in 'Ana Cláudia Jessica Juliana':
 else:
     print('Seu nome é bem normal!')
 print('Tenha um bom dia {}'.format(nome))
+
+'''
+OBS: Posso usar eliff quantas vezes eu quiser;
+O uso do else não é obrigatório quando se tem o elif.
+'''
