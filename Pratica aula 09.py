@@ -13,6 +13,7 @@ print(frase.replace('Python', 'Android'))
 #ou...
 frase = frase.replace('Python', 'Ándroid')
 print(frase)
+#replace para substituir uma palavra por outra por exemplo "trocar antigo por novo": .replce('Antigo', 'Novo')
 
 frase = 'Curso em Vídeo Python'
 print('Curso' in frase)
@@ -23,9 +24,11 @@ print(frase.find('Vídeo'))
 
 print(frase.find('vídeo'))
 #false (pq tem v)
+#find para saber a posição em que a palavra que quer está
 
 print(frase.lower().find('video'))
 #9
+#lower para transformar tudo em minúsculo
 
 print(frase.split())
 #['Curso', 'em', 'Vídeo', 'Python']
@@ -33,6 +36,7 @@ print(frase.split())
 dividido = frase.split()
 print(dividido[0])
 #Curso
+#split para dividir uma frase em uma lista de pedaços menores.
 
 print("""Ajenub;qwjnJddjcn;in:KajnfOfpf.
       JAw;foaiuchlKnrfr;lishhcóknkjenfrídf
