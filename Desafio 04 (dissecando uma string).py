@@ -7,5 +7,3 @@ print('É alfanumérico?', a.isalnum())
 print('Só tem letras minúsculas?', a.islower())
 print('Só tem letras maiúsculas?', a.isupper())
 print('Está capitalizada?', a.istitle())
-  
- 
