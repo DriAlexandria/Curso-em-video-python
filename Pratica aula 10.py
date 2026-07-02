@@ -1,3 +1,4 @@
+#ESTRUTURA CONDICIONAL (IF / ELSE)
 nome=str(input('Qual é o seu nome? ')).strip().capitalize()
 if nome == 'Drielly':
     print('Que nome lindo vc tem!')

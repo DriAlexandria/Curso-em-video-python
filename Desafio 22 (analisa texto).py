@@ -1,5 +1,0 @@
-frase = str(input('Digite seu nome completo: ')).strip()
-print('Seu nome em maiúsculas é: {}'.format(frase.upper()))
-print('Seu nome em minúsculas é: {}'.format(frase.lower()))
-print('Seu nome tem {} letras'.format(len(frase) - frase.count(' ')))
-print("Seu primeiro nome tem {} letras".format(len(frase.split()[0])))

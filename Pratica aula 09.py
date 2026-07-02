@@ -1,3 +1,4 @@
+#AULA SOBRE TRATAMENTO DE STRING
 frase = 'Curso em Vídeo Python'
 print(frase.upper().count('O'))
 #Resultado = 3
