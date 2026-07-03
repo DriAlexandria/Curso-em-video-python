@@ -1,6 +1,6 @@
 # Exemplo de conflito no python
 
-frase = input('Digite uma frase: ')
+frase = input('Digite uma frase ai mano: ')
 
 if(frase == 'Bom dia'):
     print("bom dia pra vc tambem!")
