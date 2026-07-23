@@ -1,4 +1,4 @@
-#Simulador de caixa eletrônico
+#SIMULADOR DE SAQUE DINHEIRO (WHILE, IF, ELIF, BREAK)
 print('=' * 30)
 print('{:^30}'.format('BANCO DEV'))
 print('=' * 30)
